@@ -1,0 +1,1 @@
+{"version":3,"file":"ErrorData.d.ts","sourceRoot":"","sources":["../../../../shared/data/ErrorData.ts"],"names":[],"mappings":"AAAA,MAAM,MAAM,SAAS,GAAG;IACpB,OAAO,EAAE,MAAM,CAAC;IAChB,IAAI,EAAE,MAAM,CAAC;IACb,KAAK,CAAC,EAAE,MAAM,CAAA;CACjB,CAAC;AAEF,wBAAgB,OAAO,CAAC,IAAI,EAAE,OAAO,GAAG,IAAI,IAAI,SAAS,CAKxD"}

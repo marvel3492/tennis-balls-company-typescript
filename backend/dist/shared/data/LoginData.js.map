@@ -1,0 +1,1 @@
+{"version":3,"file":"LoginData.js","sourceRoot":"","sources":["../../../../shared/data/LoginData.ts"],"names":[],"mappings":"AAKA,MAAM,UAAU,OAAO,CAAC,IAAa;IACjC,OAAO,OAAO,IAAI,KAAK,QAAQ,IAAI,IAAI,KAAK,IAAI;QAC5C,SAAS,IAAI,IAAI,IAAI,OAAO,IAAI,CAAC,OAAO,KAAK,SAAS;QACtD,SAAS,IAAI,IAAI,IAAI,OAAO,IAAI,CAAC,OAAO,KAAK,QAAQ,CAAC;AAC9D,CAAC"}
